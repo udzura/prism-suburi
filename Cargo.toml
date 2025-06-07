@@ -1,0 +1,7 @@
+[package]
+name = "prism-suburi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ruby-prism = "1.4.0"
